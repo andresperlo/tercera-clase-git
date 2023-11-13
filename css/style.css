@@ -1,0 +1,13 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.bg-navbar-red {
+  background-color: #f54456;
+}
+
+.bg-navbar-red a {
+  color: white;
+}
